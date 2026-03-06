@@ -125,6 +125,13 @@
       "url": "https://chat.qwen.ai",
       "icon_url": "../icons/qwen-icon.png",
       "element_selector": "#chat-input"
+    },
+    {
+      "name": "Z AI",
+      "pattern": "*://chat.z.ai/*",
+      "url": "https://chat.z.ai",
+      "icon_url": "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+      "element_selector": "#chat-input"
     }
   ]
 }

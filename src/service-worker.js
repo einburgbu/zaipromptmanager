@@ -187,7 +187,7 @@ async function createPromptContextMenu() {
     // Create the parent menu
     chrome.contextMenus.create({
       id: 'open-prompt-manager',
-      title: 'Open Prompt Manager',
+      title: 'My Prompt Manager',
       contexts: ['all']
     });
     // First child: "Save as prompt" – only shown when there is a text selection

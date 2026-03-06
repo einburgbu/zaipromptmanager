@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Open Prompt Manager",
-    "version": "2.5.5",
-    "description": "Open Source Prompt Manager for ChatGPT, Claude, Gemini, Grok and more.",
+    "name": "My Prompt Manager",
+    "version": "2.5.5.1",
+    "description": "Custom Prompt Manager with Z AI support",
     "permissions": [
         "sidePanel",
         "storage",
